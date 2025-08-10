@@ -8,7 +8,7 @@ venv/
 
 # Environment and secrets
 *.env
-credentials.json
+backend/credentials.json
 
 # VS Code
 .vscode/
